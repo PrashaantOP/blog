@@ -141,5 +141,28 @@ slider */
     }
 
     .tb-contant{
-        padding: 1rem auto;
+        padding: 2rem 0;
+        text-align: center;
+        background-color: #49688e;
+        color: #fff;
+        font-size: 1.3rem;
+        border-left: 3px solid #ffab1f;
+    }
+    .tb-contant-bar{
+        padding: 0.5rem 5px;
+        text-align: center;
+        background-color: aliceblue;
+        color: #000;
+        /* font-size: 0.9rem; */
+        border-left: 3px solid #ffab1f;
+        border-bottom: 1px solid rgba(128, 128, 128, 0.39);
+    }
+    .tb-contant-bar p{
+        font-size: 1rem;
+    }
+    .tb-contant-bar i{
+        color: #ffab1f;
+    }
+    .main-contant{
+        margin-top: 3rem;
     }
